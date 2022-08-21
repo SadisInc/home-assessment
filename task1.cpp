@@ -6,7 +6,7 @@ int main()
   
 int data = 255;
 float payload = 6.153;
-bool flag = true;
+string flag = "true";
 char ch = '#';
 cout << data << endl;
 cout << payload << endl;
