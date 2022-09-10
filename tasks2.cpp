@@ -32,7 +32,8 @@ int main(int argc, char const *argv[])
           otherwise – assign false and report it in the console.
     */
 
-//    int x , y = 0;
+//   string x = "0";
+//    string y = "0";
 //    bool flag = 0;
 //    cout << "Enter x : ";
 //    cin >> x;
@@ -48,6 +49,7 @@ int main(int argc, char const *argv[])
 //       cout << "Your x isn`t equal to y" << endl;
 //     flag = 0;
 //    }
+   
    
 
    /*  3. Write a program that finds the largest of three entered numbers. 
