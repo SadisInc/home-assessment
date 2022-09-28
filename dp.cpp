@@ -196,14 +196,14 @@ int main(int argc, char const *argv[])
     Bayraktar currentstat;
     if (status == 0)
     {
-       cout << "We stay(" << endl;
+       cout << "Our Bayraktar stay(" << endl;
        currentstat.GetPosBeforeTurn();
        separetion();
        currentstat.GetStatBeforeTurn();
     }
     else if (status == 1)
     {
-        cout << "We Flying!!!" << endl;
+        cout << "Our Bayraktar Flying!!!" << endl;
         separetion();
         currentstat.GetPosAfterTurn();
         separetion();
